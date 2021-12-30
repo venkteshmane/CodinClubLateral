@@ -26,6 +26,3 @@ sr. No	Description	Unit	Nos	L	B	H	Qty	Remark
 25	Priya	Cum	2	2	2	0.4	3.2	 
 26	Bhakti	Cum	3	2	2	0.4	4.8	 
 27	Laximikant	Cum	1	2	2	0.4	1.6	 
-28	Mamta	Cum	4	2	2	0.4	6.4	 
-29	Bhakti	Cum	55	2	2	0.4	88	 
-30	Mamta	Cum	5	2	2	0.4	8	 
