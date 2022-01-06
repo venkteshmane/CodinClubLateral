@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash 
 
 read -p "Enter the number to find factors:" number
 

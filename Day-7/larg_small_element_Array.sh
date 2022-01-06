@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash 
 
 # generate 3 digit random number
 function generateRandomNumber() {
